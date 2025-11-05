@@ -1,14 +1,16 @@
-# 🧭 Travellian
+# Modern Landing Page
 
 A modern and elegant **travel website** built with **React + TypeScript + Tailwind CSS**, featuring smooth animations, clean UI components, and multiple interactive sliders for a dynamic browsing experience.
 
 ---
 
-## 🖼️ Design Preview
+## 🧭 Travellian
 
 ![Design Banner](https://github.com/user-attachments/assets/1c4c2504-6306-4dcb-a06c-41b5cf1d5fd8)
 
-🔗 **Live Preview:** [https://your-live-link-here.com](#)
+## 🚀 Live Demo
+
+> [https://ahmedel-hadad.github.io/Travellian/](https://ahmedel-hadad.github.io/Travellian/)
 
 ---
 
