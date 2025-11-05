@@ -1,70 +1,51 @@
-# Modern Landing Page
+📦 Travellian Assets Repository
 
-A modern and elegant **travel website** built with **React + TypeScript + Tailwind CSS**, featuring smooth animations, clean UI components, and multiple interactive sliders for a dynamic browsing experience.
+This branch serves as the central storage for all static assets used in the Travellian project — including images, icons, JSON data, and other external files referenced across the website.
 
----
+It ensures that assets are hosted separately from the deployed source code (gh-pages branch), making them easier to manage, update, and link to directly via public URLs.
 
-## 🧭 Travellian
+🧭 About Travellian
 
-![Design Banner](https://github.com/user-attachments/assets/1c4c2504-6306-4dcb-a06c-41b5cf1d5fd8)
+Travellian is a modern and elegant travel website built with React + TypeScript + Tailwind CSS, featuring smooth animations, clean UI components, and dynamic sliders for an immersive browsing experience.
 
-## 🚀 Live Demo
+Live Demo:
+https://ahmedel-hadad.github.io/Travellian/
 
-> [https://ahmedel-hadad.github.io/Travellian/](https://ahmedel-hadad.github.io/Travellian/)
+Main Codebase:
+Stored in the gh-pages branch.
 
----
+🗂️ Assets Branch Purpose
 
-## 🧰 Tech Stack & Features
+This branch (assets) contains static resources that are used across the project and accessed via direct GitHub raw links.
 
-### 🧩 Tech Stack
+Typical use cases:
 
-| Technology | Description |
-|-------------|--------------|
-| **React + TypeScript** | Component-based architecture with type safety |
-| **Tailwind CSS** | Fast, responsive, utility-first styling |
-| **Framer Motion** | Modern animations and transitions |
-| **Swiper.js** | Sliders for hero, destinations, offers, and testimonials |
-| **Aceternity UI** | Beautiful prebuilt UI components for clean layout |
+Storing reusable images, icons, and illustrations
 
----
+Hosting JSON data files for dynamic fetching
 
-### ✨ Features
-
-| Feature | Description |
-|----------|--------------|
-| **Hero Carousel** | Full-width slider with travel imagery |
-| **Popular Destinations** | Showcase slider for top locations |
-| **Special Offers** | Promotional carousel for travel deals |
-| **Our Blog** | Article cards with image and text previews |
-| **Trip Planners** | Image grid with custom hover effects |
-| **Destination Gallery** | Visual gallery slider |
-| **Traveler’s Experiences** | Testimonials section with slider |
-| **Footer + Newsletter** | Subscription form, logo, and navigation links |
+Keeping static media outside the deployment branch
 
 ---
 
-## 📁 Project Structure
+# 📁 Directory Structure
 
 ```
-travellian/
-├── public/
-│ ├── assets/ # Static images and icons
-│ └── favicon.ico
+assets/
+├── images/        # All website and UI images (banners, backgrounds, destinations, etc.)
+│   ├── hero/
+│   ├── destinations/
+│   └── offers/
 │
-├── src/
-│ ├── components/ # Reusable UI components
-│ │ ├── layout/ # Navbar, Footer, etc.
-│ │ └── sections/ # Hero, Blog, Gallery, etc.
-│ │
-│ ├── pages/ # Page-level components
-│ │ └── Home.tsx
-│ │
-│ ├── hooks/ # Custom React hooks
-│ ├── utils/ # Helper functions
-│ ├── styles/ # Tailwind configurations
-│ ├── types/ # TypeScript interfaces
-│ ├── App.tsx
-│ └── main.tsx
+├── icons/         # SVG or PNG icons used in UI components
+│   ├── navigation/
+│   ├── social/
+│   └── misc/
 │
-└── package.json
+├── data/          # JSON files (products, destinations, reviews, etc.)
+│   └── destinations.json
+│
+└── README.md      # Description of the assets branch (this file)
 ```
+
+---
