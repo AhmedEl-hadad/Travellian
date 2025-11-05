@@ -6,7 +6,7 @@ A modern and elegant **travel website** built with **React + TypeScript + Tailwi
 
 ## 🧭 Travellian
 
-![Design Banner](https://github.com/user-attachments/assets/1c4c2504-6306-4dcb-a06c-41b5cf1d5fd8)
+![Design Thumbnail](https://github.com/AhmedEl-hadad/Travellian/blob/assets/assets/Thumbnail.png)
 
 ## 🚀 Live Demo
 
