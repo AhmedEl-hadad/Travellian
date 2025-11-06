@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "destination": "Lisbon, Portugal",
+    "rating": 5,
+    "description": "5 nights and 4 days in 5 star hotel, breakfast and lunch included. Very popular during the renaissance. Passage and going through the cities of the world in classical literature.",
+    "pricing": 500,
+    "image": "https://github.com/AhmedEl-hadad/Travellian/blob/assets/assets/special/special.png?raw=true"
+  },
+  {
+    "id": 2,
+    "destination": "Athens, Greece",
+    "rating": 4.3,
+    "description": "5 nights and 4 days in 5 star hotel, breakfast and lunch included. Very popular during the renaissance. Passage and going through the cities of the world in classical literature.",
+    "pricing": 800,
+    "image": "https://github.com/AhmedEl-hadad/Travellian/blob/assets/assets/special/special-2.png?raw=true"
+  },
+  {
+    "id": 3,
+    "destination": "Rome, Italy",
+    "rating": 4.6,
+    "description": "5 nights and 4 days in 5 star hotel, breakfast and lunch included. Very popular during the renaissance. Passage and going through the cities of the world in classical literature.",
+    "pricing": 750,
+    "image": "https://github.com/AhmedEl-hadad/Travellian/blob/assets/assets/special/special-3.png?raw=true"
+  }
+]
