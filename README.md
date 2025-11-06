@@ -32,18 +32,21 @@ Typical use cases:
 
 ```
 assets/
-├── images/        # All website and UI images (banners, backgrounds, destinations, etc.)
+├── assets/        # All website and UI images (banners, backgrounds, destinations, etc.)
+│   ├── avatar/
+│   ├── col-blocks/
+│   ├── gallary/
 │   ├── hero/
-│   ├── destinations/
-│   └── offers/
+│   ├── planner/
+│   └── special/
 │
-├── icons/         # SVG or PNG icons used in UI components
-│   ├── navigation/
-│   ├── social/
-│   └── misc/
-│
-├── data/          # JSON files (products, destinations, reviews, etc.)
-│   └── destinations.json
+├── data/          # JSON files (destinations, reviews, etc.)
+│   ├── hero.json
+│   ├── experiences.json
+│   ├── gallery.json
+│   ├── special.json
+│   ├── destinations.json
+│   └── planners.json
 │
 └── README.md      # Description of the assets branch (this file)
 ```
