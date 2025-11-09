@@ -18,28 +18,28 @@ A modern and elegant **travel website** built with **React + TypeScript + Tailwi
 
 ### 🧩 Tech Stack
 
-| Technology | Description |
-|-------------|--------------|
-| **React + TypeScript** | Component-based architecture with type safety |
-| **Tailwind CSS** | Fast, responsive, utility-first styling |
-| **Framer Motion** | Modern animations and transitions |
-| **Swiper.js** | Sliders for hero, destinations, offers, and testimonials |
-| **Aceternity UI** | Beautiful prebuilt UI components for clean layout |
+| Technology             | Description                                              |
+| ---------------------- | -------------------------------------------------------- |
+| **React + TypeScript** | Component-based architecture with type safety            |
+| **Tailwind CSS**       | Fast, responsive, utility-first styling                  |
+| **Framer Motion**      | Modern animations and transitions                        |
+| **Swiper.js**          | Sliders for hero, destinations, offers, and testimonials |
+| **Aceternity UI**      | Beautiful prebuilt UI components for clean layout        |
 
 ---
 
 ### ✨ Features
 
-| Feature | Description |
-|----------|--------------|
-| **Hero Carousel** | Full-width slider with travel imagery |
-| **Popular Destinations** | Showcase slider for top locations |
-| **Special Offers** | Promotional carousel for travel deals |
-| **Our Blog** | Article cards with image and text previews |
-| **Trip Planners** | Image grid with custom hover effects |
-| **Destination Gallery** | Visual gallery slider |
-| **Traveler’s Experiences** | Testimonials section with slider |
-| **Footer + Newsletter** | Subscription form, logo, and navigation links |
+| Feature                    | Description                                   |
+| -------------------------- | --------------------------------------------- |
+| **Hero Carousel**          | Full-width slider with travel imagery         |
+| **Popular Destinations**   | Showcase slider for top locations             |
+| **Special Offers**         | Promotional carousel for travel deals         |
+| **Our Blog**               | Article cards with image and text previews    |
+| **Trip Planners**          | Image grid with custom hover effects          |
+| **Destination Gallery**    | Visual gallery slider                         |
+| **Traveler’s Experiences** | Testimonials section with slider              |
+| **Footer + Newsletter**    | Subscription form, logo, and navigation links |
 
 ---
 
