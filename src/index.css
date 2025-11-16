@@ -4,10 +4,14 @@
 @import "swiper/css/navigation";
 @import "swiper/css/pagination";
 @theme {
-  --color-primary: #ff7757; /* Vibrant Coral Orange */
-  --color-midnight: #331811; /* Espresso */
-  --color-navy: #61291c; /* Mahogany */
-  --color-indigo: #ffd2c7; /* Peach */
+  --color-primary: #ff7757;
+  --color-secondary: #172432;
+  --color-espresso: #331811;
+  --color-mahogany: #61291c;
+  --color-peach: #ffd2c7;
+  --color-sand: #f6e3d4;
+  --color-clay: #b85c3c;
+  --color-charcoal: #1e1b18;
 }
 
 * {

@@ -1,6 +1,6 @@
-export const getHeroData = async () => {
+export const getDestinationData = async () => {
   const url =
-    "https://raw.githubusercontent.com/AhmedEl-hadad/Travellian/refs/heads/assets/data/hero.json";
+    "https://raw.githubusercontent.com/AhmedEl-hadad/Travellian/refs/heads/assets/data/destinations.json";
   const options = { method: "GET" };
 
   try {
